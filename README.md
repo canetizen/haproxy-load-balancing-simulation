@@ -1,6 +1,5 @@
 # haproxy-load-balancing-simulation
 
-**Description:**
 A comprehensive load balancing simulation project built with **Java**, **HAProxy**, and **Docker Compose**.
 This project demonstrates HTTP and TCP load balancing, health checks, and advanced failover behaviors using multiple backend services and a backup server.
 You can easily observe how HAProxy distributes traffic, handles server failures, and automatically routes requests to backup infrastructure, all within an isolated container environment.
